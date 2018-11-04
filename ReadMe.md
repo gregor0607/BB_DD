@@ -1,0 +1,1 @@
+This repository contains mainly jupyter notebooks with supplemental information to my personal notes. 
